@@ -4,11 +4,11 @@
 
 1. [TODO] installing and deploying hubot
 	1. [TODO] deploying hubot on heroku
-	2. [TODO] deploying hubot on linux/bsd
+	2. [TODO] deploying hubot on linux/osx
 	3. [TODO] deploying hubot from source
 2. [TODO] hubot adapters
 	1. [TODO] configuring hubot adapters on heroku
-	2. [TODO] configuring hubot adapters on linux/bsd
+	2. [TODO] configuring hubot adapters on linux/osx
 3. [TODO] introduction to hubot scripts
 	1. [TODO] what are hubot scripts
 	2. [TODO] how are hubot scripts loaded
