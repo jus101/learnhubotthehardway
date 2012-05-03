@@ -6,7 +6,7 @@
 
 Robots. Usually the at the center of epic science fiction adventures whether
 they are the deadly T-1000 from The Terminator or the fun and friendly WALL-E.
-The first written accounts of 'robots' were from the 3rd century BC in acient
+The first written accounts of 'robots' were from the 3rd century BC in ancient
 China. It wasn't until after the 1950s that computers and robotics became
 rapidly increasing in complexity and numbers. Fast forwarding to the present
 day we have robots like ASIMO and amazing quadrotor robots.
