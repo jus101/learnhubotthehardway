@@ -8,7 +8,7 @@
 2. [DONE] hubot adapters
 	1. [DONE] configuring hubot adapters on heroku
 	2. [DONE] configuring hubot adapters on linux/osx
-3. [TODO] introduction to hubot scripts
+3. [DONE] introduction to hubot scripts
 	1. [DONE] what are hubot scripts
 	2. [DONE] how are hubot scripts loaded
 	3. [DONE] picking hubot scripts
