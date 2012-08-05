@@ -16,38 +16,38 @@ their own scripts and how the internals of hubot actually work.
 
 ## Contents
 
-1. Installing and Deploying Hubot
+### 1. Installing and Deploying Hubot
 
 Learn how to install hubot locally or deploy to Heroku for free.
 
-2. Hubot Adapters
+### 2. Hubot Adapters
 
 Learn how to use hubot with another adapter such as IRC.
 
-3. Introduction to Hubot Scripts
+### 3. Introduction to Hubot Scripts
 
 Learn what hubot scripts are and how to pick and choose the ones you want to
 use.
 
-4. Writing Your First Hubot Script
+### 4. Writing Your First Hubot Script
 
 Learn how to write your first hubot script and all the tools available to making
 your ideal scripts.
 
-5. Using the HTTP Listener
+### 5. Using the HTTP Listener
 
 Learn how to use the built in HTTP server in hubot to expose URLs that you can
 use as HTTP endpoints or serve HTML content.
 
-6. Contributing Your Scripts
+### 6. Contributing Your Scripts
 
 Learn how to contribute your hubot scripts directly back to hubot.
 
-7. Real World Hubot
+### 7. Real World Hubot
 
 Learn how companies and people are using hubot to help run their companies.
 
-8. Hubot Internals
+### 8. Hubot Internals
 
 Learn what makes hubot tick internally, you'll learn everything there is to know
 about how hubot works so you can help contribute features and fixes to the core.
